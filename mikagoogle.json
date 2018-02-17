@@ -1,0 +1,12 @@
+export default {
+  "type": "service_account",
+  "project_id": "mindful-primer-189620",
+  "private_key_id": "2086e1256aeeec7a8d6b0a86986539b2aafc8394",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDZLpIjPx9EjiS3\n0L/4cLCC/RGVctNgIDT1TtGrIQJ3WDYPDFc8c145ismda0QgOKPL2E5hIM4NRivH\n9FsB9stkEpqwLRg011vP2jN+L4XXoUJcKt5lOVitnjf4Z7vsKVszUbqvyC2beMup\n4hJUQmts68JLFbbSh9pFKshC5mdUS7koI1KfNLRp9bqD1Mv6IKnzIQKKEjQx6cX3\n1BYRJCWBL9Ylw5YJvI+25PXluj3HZJ8IrvzRpKYT3fJfcxZJ9SwjvvWjmZ4S3RZH\nOLXAQhzocHQ6higNqiB/PzSirTLuiIGyyHZVJxZ4vzmVZwt+JWI0+wUVEZ9aMKze\nolJpq5D9AgMBAAECggEAAkjwpalI2W5LaZmrI2CAIuipsjJSkfzUwc3x+8Rto7bM\nXs0o78xg7ecNZvgVb+dYpdDhRjlToaUe2cwy1urzSdq+QONAkXHAmAe6KfYzCMk8\nCv8ydssrKSx0d0sUGZB30qrl9Wp8PFoBfoiP284VFkDGuwZ/9WgTfk3MbJPC+4qJ\nciGBHzO8ZsDCxKkZhJnzk5Ym+deZzjjiBvWTdLIkCwqG3S1ioZHLXGPGEYSSvTY0\nL/3vTIKAxBJGYNxAUAGjvv/s6d8HJ+s0LVmBzL96VmxCzDYnhisJotPx7ZE9GYL6\nizX8kjWMeDh8DskPSL8SUnPmq17P3FqGjO1LCkS/kQKBgQDxk2kfrZKtqW9WFrPJ\nD4gjxXfQGFiPnsmCy/lT0Q/Owv8xH8YFXFHIJplbSikNNirE9zIXXwXjkDtyzbYo\n5ECaGu28rgf2EV1q1wZwOIoWZeAou0EUQaUC4ckDjwsySKrzdGd1eit+b80ZFcLd\n1VYdVnU3rbJ1JHLeX1R7m3m5mQKBgQDmJkn6Pxkrg2N72KoiZp2n83hZneEhNMAB\n4k1Uzm5JTyZ4NTyRn1YDdSRDbvXl1WCwOemTCxsJll6SdFvFwotDpFJGliu6lv4O\nXZBWJKsvM9ChdaJeHpuO6A9AS3L5IRo9a0r+Lwi1RC66eyRuVbIZDHqeVe2m5lQ2\nSeW0z2MZBQKBgCmWKNitNrzymBoH2ndYVyVhTxjhuA0xVptPpeJJ8SC07N12DM7L\nb8C29FuEzsBZfM9fhp4DW64rHDDNPPiZIo3k6Nw8UV6I6r4DujYDZbIpY4dfhPqJ\nunBekg4sx86mN9elSFIu7+HaOUKCPoOVwDdYtOEa48fKuIOTgaWtxCyxAoGADfvZ\nltjqoJg1HTtG6xwtDB1g/KD5ItlfqT2k0ThRvyaOAdPKQFbcFQ2zDF3blwFmBI8g\nQAz2sZhvWpqzUMrHR27eiOdq9MVj3l+U+4by18VgMc9B9FILxZ0YACIVdEmsnHq+\nbb9R2iGwbSg6SHHwhlEZyjESZYetKjdHO7s2HDkCgYBb4lfSGbTc62jGQ6tlGy0m\n6833bSmpZnYXWmzZEEM80qh4z4Tlnsi6MZ2IiokwXeCAHiMw5qtVZ0UOldZudgTD\nJ76E5MGjgyKrr5Mc7dte9uuhgrhoQHqCdxQtbHXHinyluXSRYSNw6z5D6Hng9yhq\nKQmomxbmp5iXZO2G+aIWwA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "starting-account-gwxeuwkmwvmj@mindful-primer-189620.iam.gserviceaccount.com",
+  "client_id": "108233958679680209887",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/starting-account-gwxeuwkmwvmj%40mindful-primer-189620.iam.gserviceaccount.com"
+}
